@@ -1,0 +1,7 @@
+{
+  "name": "PocketSmart AI",
+  "description": "Intelligent personalized budget recommendations, smart envelope packets, and interactive financial AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
